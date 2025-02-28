@@ -1,4 +1,16 @@
 using UnityEngine;
 
 public class Kayla : MonoBehaviour
-//hi katip
+{
+    // Start is called once before the first execution of Update after the MonoBehaviour is created
+    void Start()
+    {
+        //Hi Kan
+    }
+
+    // Update is called once per frame
+    void Update()
+    {
+        
+    }
+}
