@@ -1,13 +1,12 @@
 using UnityEngine;
 
-public class Katip : MonoBehaviour
+public class HelloWorldTest : MonoBehaviour
 {
     // Start is called once before the first execution of Update after the MonoBehaviour is created
     void Start()
     {
-    //Helloooooooooooo
-    //HI
-    //hi from ouwen
+        //hello world
+        //Hi Owennnn
     }
 
     // Update is called once per frame
